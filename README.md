@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrick</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="code" width="400" src"https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47w3u2gy30j63ld5qlc4tpl2c49d43wxt4uirytmre&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 - 🌱 I’m currently learning about **AIs and React**
 
