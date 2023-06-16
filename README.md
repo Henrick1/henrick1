@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrick</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="logo" width="400" src="">
+<img align="right" alt="logo" width="10%" height="10%" src="logof.png">
 
 
 - 🌱 I’m currently learning about **AIs and React**
