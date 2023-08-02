@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrick1&show_icons=true&locale=en&layout=compact" alt="henrick1" /></p>
 
-![Snake animation](https://github.com/eagrundy/Henrick1/blob/output/github-contribution-grid-snake.svg)
