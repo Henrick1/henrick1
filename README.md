@@ -26,14 +26,6 @@ const henrique = {
   <img width="100%" src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,figma,python,flask,java,c,mysql,git,github,electron,threejs,linux&theme=dark&perline=16" />
 </p>
 
-<h3><code>&gt; ping</code></h3>
-
-<p align="left">
-  <a href="https://henrick1.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/henrique-tetilha/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:henriquetetilha@gmail.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <h3><code>&gt; contributions</code></h3>
 
 <picture>
