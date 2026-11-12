@@ -8,15 +8,15 @@
 
 <h3><code>&gt; whoami</code></h3>
 
-<pre>
-const henrique = {
+```js
+const henrick = {
   role: "full stack dev",
   degree: "B.Sc. Computer Science ✅",
   rn: ["shipping web apps", "messing with Three.js", "making games nobody asked for"],
   offline: ["video games 🎮", "puzzles 🧩"],
   vibe: "if it works, don't touch it",
 };
-</pre>
+```
 
 <br clear="right">
 
