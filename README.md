@@ -23,7 +23,7 @@ const henrique = {
 <h3><code>&gt; stack</code></h3>
 
 <p align="left">
-  <img width="100%" src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,figma,python,flask,java,c,mysql,git,github,electron,threejs,linux&theme=dark&perline=16" />
+  <img width="100%" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,flask,java,mysql,docker,git,electron,threejs,figma&theme=dark&perline=16" />
 </p>
 
 <h3><code>&gt; contributions</code></h3>
